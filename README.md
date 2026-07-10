@@ -349,6 +349,134 @@ Building modern web and mobile applications with a product-first mindset.
 
 ---
 
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DakshChaudhary2668&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=DakshChaudhary2668&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshChaudhary2668&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=DakshChaudhary2668&theme=algolia&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DakshChaudhary2668&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# Contribution Snake
+
+> Enable the included GitHub Action to generate the snake animation.
+
+```markdown
+![](https://raw.githubusercontent.com/DakshChaudhary2668/DakshChaudhary2668/output/github-contribution-grid-snake-dark.svg)
+```
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced DSA
+  - System Design
+  - AWS Cloud
+  - Docker
+  - Kubernetes
+
+Building:
+  - GymBro
+  - CureFleet
+  - AI SaaS Products
+
+Exploring:
+  - AI Agents
+  - RAG
+  - MCP
+  - Computer Vision
+
+Mission:
+  - Microsoft SDE Internship 2027
+
+OpenTo:
+  - Internships
+  - Freelance
+  - Open Source
+  - AI Collaborations
+```
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="mailto:dakshchaudhary2668@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/daksh-chaudhary-2668-meerut/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/DakshChaudhary2668"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://daksh-macosportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</p>
+
+---
+
+<p align="center"><i>"Building software that solves real problems through engineering, AI, and continuous learning."</i></p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=gradient&customColorList=12,20,24,30"/>
+</p>
+
+---
+
+# GitHub Action (snake.yml)
+
+Create the file:
+
+`.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: DakshChaudhary2668
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
 
 
 ---
