@@ -81,6 +81,157 @@ I enjoy taking ideas from zero to deployment—designing scalable architectures,
 | Automation | Intermediate | Workflow automation & developer tooling |
 | Current Focus | Advanced | AI-native SaaS & intelligent applications |
 
+
+
+---
+
+# Featured Projects
+
+> The projects below reflect my focus on building AI-first, production-ready applications with modern engineering practices.
+
+<details>
+<summary><b>🏋️ GymBro — AI Fitness Ecosystem</b></summary>
+
+### Overview
+
+GymBro is an AI-powered fitness platform designed to deliver personalized workouts, nutrition guidance, real-time form correction, and progress tracking through a modern mobile experience.
+
+| Category | Details |
+|-----------|---------|
+| **Role** | Founder & Full Stack Developer |
+| **Stack** | React Native · Node.js · Express · Supabase · TypeScript |
+| **AI** | OpenAI APIs · MediaPipe · OpenCV |
+| **Architecture** | Modular, API-first |
+| **Authentication** | Supabase Auth |
+| **Status** | Active Development |
+
+### Highlights
+
+- AI-generated workout plans
+- Personalized nutrition recommendations
+- Real-time posture & form detection
+- Voice-guided coaching
+- Gamified achievements & streaks
+- Progress analytics dashboard
+
+### Engineering Focus
+
+- Clean component architecture
+- Reusable UI system
+- Mobile-first performance
+- Secure authentication
+- Scalable backend APIs
+
+**Repository**
+
+> https://github.com/DakshChaudhary2668
+
+</details>
+
+---
+
+<details>
+<summary><b>🚑 CureFleet — Smart Digital Healthcare Platform</b></summary>
+
+### Overview
+
+CureFleet is a healthcare platform focused on connecting patients and doctors through a seamless digital experience.
+
+| Category | Details |
+|-----------|---------|
+| **Role** | Founding Technical Lead |
+| **Stack** | React Native · Expo · TypeScript · Supabase |
+| **Platform** | Mobile |
+| **Security** | Role-based authentication |
+| **Status** | MVP |
+
+### Features
+
+- Patient & Doctor dashboards
+- Appointment management
+- Video consultation workflow
+- Prescription management
+- Medical history
+- Modern healthcare UI
+
+### Engineering Highlights
+
+- Design system implementation
+- Reusable UI components
+- Responsive mobile layouts
+- Scalable navigation architecture
+
+**Repository**
+
+> https://github.com/DakshChaudhary2668
+
+</details>
+
+---
+
+<details>
+<summary><b>💜 TechYuvaa — Student Tech Community Platform</b></summary>
+
+### Overview
+
+A modern platform focused on empowering student developers through events, collaboration, learning resources, and community initiatives.
+
+| Category | Details |
+|-----------|---------|
+| **Role** | Full Stack Developer |
+| **Stack** | Next.js · Tailwind CSS · TypeScript |
+| **Goal** | Community Growth |
+| **Focus** | Developer Experience |
+
+### Highlights
+
+- Premium responsive UI
+- Event showcase
+- Community-first design
+- Performance optimized
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 AI Innovation Projects</b></summary>
+
+Projects currently being explored and built.
+
+| Project | Description |
+|----------|-------------|
+| AI Developer Assistant | Intelligent coding workflows |
+| Multi-Agent Systems | Agent orchestration experiments |
+| AI SaaS Products | Productivity & automation |
+| Computer Vision | Pose estimation & real-time analysis |
+| LLM Integrations | AI-powered applications |
+
+### Current Research
+
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Engineering
+- Developer Tooling
+- Intelligent Automation
+
+</details>
+
+---
+
+## Engineering Principles
+
+| Principle | Description |
+|-----------|-------------|
+| Product First | Build solutions that solve real user problems. |
+| Clean Code | Prioritize maintainability and readability. |
+| Performance | Optimize for speed and scalability. |
+| Continuous Learning | Improve through shipping and feedback. |
+| AI Native | Leverage AI to create better user experiences. |
+
+---
+
+
 ---
 
 > **Mission 2027:** Earn a Microsoft SDE Internship by consistently building products, contributing to open source, mastering DSA, and shipping real-world AI applications.
